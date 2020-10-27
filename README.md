@@ -16,7 +16,7 @@
   
  <hr/>
   
-### Languages | Frameworks | DB | Version Control:
+### Languages | Frameworks | DB | Version Control
 
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/javascript-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/typescript-original.svg?size=26&color=currentColor" />
