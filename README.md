@@ -1,14 +1,12 @@
 ### Hi there, thanks for reaching my Github! 👋
 
 <div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Karanveer-singh671">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karanveer-singh671&count_private=true&show_icons=true&theme=merko&hide_rank=true&include_all_commits=true" />
 </a>
-<div align="top">
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Karanveer-singh671">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanveer-singh671&hide=php&layout=compact&theme=merko" />
 </a>
-</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
