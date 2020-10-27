@@ -28,6 +28,8 @@
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/docker-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/react-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="26px" src="https://icongr.am/simple/redux.svg?size=26&color=0088cc&colored=false" />
+</div>
+<div align="bottom">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/git-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/sourcetree-original.svg?size=26&color=currentColor" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
