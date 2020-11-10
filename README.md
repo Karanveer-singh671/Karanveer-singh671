@@ -18,7 +18,7 @@
 
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/javascript-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/typescript-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=34&color=currentColor" />  
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=26&color=currentColor" />  
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/express-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=26&color=currentColor" />  
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/mongodb-original.svg?size=26&color=currentColor" />
