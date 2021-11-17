@@ -22,6 +22,7 @@
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/express-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=26&color=currentColor" />  
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" />  
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" />  
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/mongodb-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/postgresql-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/docker-original.svg?size=26&color=currentColor" />
