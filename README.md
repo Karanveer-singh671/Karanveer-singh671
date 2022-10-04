@@ -7,6 +7,11 @@
 <!-- <a href="https://github.com/Karanveer-singh671">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanveer-singh671&hide=php&layout=compact&theme=merko" />
 </a> -->
+  
+  <strong> 🔭 I’m currently working at Thinkific with many talented engineers </strong>
+  <strong> 🌱 I’m currently learning Japanese 🗾 </strong>
+  <strong> 😄 Pronouns: He/Him </strong>
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
