@@ -1,12 +1,12 @@
 ### Hi there, thanks for reaching my Github! 👋
 
 <div align="left">
-<a href="https://github.com/Karanveer-singh671">
+<!-- <a href="https://github.com/Karanveer-singh671">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karanveer-singh671&count_private=true&show_icons=true&theme=merko&hide_rank=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/Karanveer-singh671">
+</a> -->
+<!-- <a href="https://github.com/Karanveer-singh671">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanveer-singh671&hide=php&layout=compact&theme=merko" />
-</a>
+</a> -->
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
