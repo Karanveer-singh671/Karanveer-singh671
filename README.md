@@ -1,29 +1,28 @@
 ### Hi there, thanks for reaching my Github! 👋
 
 <div align="left">
-<!-- <a href="https://github.com/Karanveer-singh671">
+<a href="https://github.com/Karanveer-singh671">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karanveer-singh671&count_private=true&show_icons=true&theme=merko&hide_rank=true&include_all_commits=true" />
-</a> -->
-<!-- <a href="https://github.com/Karanveer-singh671">
+</a>
+<a href="https://github.com/Karanveer-singh671">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanveer-singh671&hide=php&layout=compact&theme=merko" />
-</a> -->
- 
+</a>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align="left">
-  
+
  <hr/>
-  
+
 ### Languages | Frameworks | DB | Version Control
 
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/javascript-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/typescript-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=26&color=currentColor" />  
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/express-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=26&color=currentColor" />  
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" />  
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" />  
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/mongodb-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/postgresql-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/devicon/docker-original.svg?size=26&color=currentColor" />
@@ -50,5 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
