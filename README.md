@@ -2,7 +2,7 @@
 
 <div align="left">
 <a href="https://github.com/Karanveer-singh671">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karanveer-singh671&count_private=true&show_icons=true&theme=merko&hide_rank=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karanveer-singh671&count_private=true&show_icons=true&theme=merko&hide_rank=true&include_all_commits=true&hide=contribs,prs" />
 </a>
 <a href="https://github.com/Karanveer-singh671">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanveer-singh671&hide=php&layout=compact&theme=merko" />
