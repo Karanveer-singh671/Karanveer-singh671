@@ -17,19 +17,19 @@
 ### Languages | Frameworks | DB | Version Control
 
 <img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/typescript-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/express-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/mongodb-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/postgresql-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/docker-original.svg?size=26&color=currentColor" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/react-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg?size=128&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg?size=128&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg?size=26&color=currentColor" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="20px" src="https://icongr.am/simple/redux.svg?size=26&color=0088cc&colored=false" />
-<img align="left" alt="" width="20px" src="https://icongr.am/devicon/git-original.svg?size=26&color=currentColor" />
-<img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg?size=26&color=currentColor" />
+<img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </div>
 <br />
 <br />
